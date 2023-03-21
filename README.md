@@ -1,0 +1,1 @@
+# typescript_mini_project
