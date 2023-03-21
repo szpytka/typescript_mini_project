@@ -1,1 +1,1 @@
-# typescript_mini_project
+# TYPESCRIPT MINI PROJECT
